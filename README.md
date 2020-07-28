@@ -13,8 +13,8 @@
 > <p>Image: 人脸照片数据存放，计算特征值用，请勿删除</p>
 > <p>modules: 部署环境时使用，请勿删除</p>
 > <p>visitor: 访客信息存放</p>
-> > <p>know: 已知成员访客头像</p>
-> > <p>unknow: 未知成员访客头像</p>
+>> <p>know: 已知成员访客头像</p>
+>> <p>unknow: 未知成员访客头像</p>
 * <h3> 环境安装</h3>
 <p style="color: chocolate">以下操作基于Anaconda3环境，并且在Windows10 X64上测试。</p>
 
